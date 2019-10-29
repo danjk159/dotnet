@@ -1,0 +1,208 @@
+2019-10-05 16:15:00.0662 Info Message Template Auto Format enabled
+2019-10-05 16:15:00.1311 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:15:00.1311 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:15:00.1603 Info Found 55 configuration items
+2019-10-05 16:15:00.1723 Info Configuration initialized.
+2019-10-05 16:15:00.1723 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:15:00.7568 Info AppDomain Shutting down. Logger closing...
+2019-10-05 16:15:00.7774 Info Logger has been shut down.
+2019-10-05 16:15:03.8495 Info Message Template Auto Format enabled
+2019-10-05 16:15:03.9132 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:15:03.9161 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:15:03.9505 Info Found 55 configuration items
+2019-10-05 16:15:03.9645 Info Configuration initialized.
+2019-10-05 16:15:03.9645 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:34:40.5802 Info Message Template Auto Format enabled
+2019-10-05 16:34:40.6418 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:34:40.6452 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:34:40.6469 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:34:40.6833 Info Found 89 configuration items
+2019-10-05 16:34:40.6974 Info Configuration initialized.
+2019-10-05 16:34:40.6988 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:36:24.3508 Info Message Template Auto Format enabled
+2019-10-05 16:36:24.4183 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:36:24.4209 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:36:24.4246 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:36:24.4601 Info Found 89 configuration items
+2019-10-05 16:36:24.4740 Info Configuration initialized.
+2019-10-05 16:36:24.4747 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:37:43.3813 Info Message Template Auto Format enabled
+2019-10-05 16:37:43.4453 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:37:43.4474 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:37:43.4474 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:37:43.4868 Info Found 89 configuration items
+2019-10-05 16:37:43.5121 Info Configuration initialized.
+2019-10-05 16:37:43.5121 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:38:39.2188 Info Message Template Auto Format enabled
+2019-10-05 16:38:39.2847 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:38:39.2876 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:38:39.2941 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:38:39.3406 Info Found 83 configuration items
+2019-10-05 16:38:39.3550 Info Configuration initialized.
+2019-10-05 16:38:39.3550 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:40:13.8802 Info Message Template Auto Format enabled
+2019-10-05 16:40:13.9373 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:40:13.9395 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:40:13.9395 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:40:13.9734 Info Found 89 configuration items
+2019-10-05 16:40:13.9871 Info Configuration initialized.
+2019-10-05 16:40:13.9871 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:40:31.9370 Info Message Template Auto Format enabled
+2019-10-05 16:40:31.9990 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:40:31.9990 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:40:32.0038 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:40:32.0360 Info Found 89 configuration items
+2019-10-05 16:40:32.0493 Info Configuration initialized.
+2019-10-05 16:40:32.0493 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:40:48.1860 Info Message Template Auto Format enabled
+2019-10-05 16:40:48.3356 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:40:48.3467 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:40:48.3507 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:40:48.4101 Info Found 89 configuration items
+2019-10-05 16:40:48.4497 Info Configuration initialized.
+2019-10-05 16:40:48.4516 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:41:06.9781 Info Message Template Auto Format enabled
+2019-10-05 16:41:07.0823 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:41:07.0878 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:41:07.0878 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:41:07.1377 Info Found 89 configuration items
+2019-10-05 16:41:07.1639 Info Configuration initialized.
+2019-10-05 16:41:07.1639 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:42:45.7386 Info Message Template Auto Format enabled
+2019-10-05 16:42:45.8063 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:42:45.8096 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:42:45.8122 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:42:45.8721 Info Found 89 configuration items
+2019-10-05 16:42:45.9002 Info Configuration initialized.
+2019-10-05 16:42:45.9002 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:44:13.0129 Info Message Template Auto Format enabled
+2019-10-05 16:44:13.1332 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:44:13.1386 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:44:13.1386 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:44:13.2074 Info Found 89 configuration items
+2019-10-05 16:44:13.2370 Info Configuration initialized.
+2019-10-05 16:44:13.2393 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:47:49.9666 Info Message Template Auto Format enabled
+2019-10-05 16:47:50.0485 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:47:50.0533 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:47:50.0566 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:47:50.1023 Info Found 89 configuration items
+2019-10-05 16:47:50.1225 Info Configuration initialized.
+2019-10-05 16:47:50.1233 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:51:08.0238 Info Message Template Auto Format enabled
+2019-10-05 16:51:08.1019 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:51:08.1044 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:51:08.1044 Info Adding target FileTarget(Name=TodoController)
+2019-10-05 16:51:08.1396 Info Found 89 configuration items
+2019-10-05 16:51:08.1559 Info Configuration initialized.
+2019-10-05 16:51:08.1559 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:52:02.3296 Info Message Template Auto Format enabled
+2019-10-05 16:52:02.4342 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:52:02.4375 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:52:02.4404 Info Adding target FileTarget(Name=todo)
+2019-10-05 16:52:02.5166 Info Found 89 configuration items
+2019-10-05 16:52:02.5475 Info Configuration initialized.
+2019-10-05 16:52:02.5475 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:52:27.1519 Info Message Template Auto Format enabled
+2019-10-05 16:52:27.2131 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:52:27.2164 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:52:27.2209 Info Adding target FileTarget(Name=todo)
+2019-10-05 16:52:27.2667 Info Found 89 configuration items
+2019-10-05 16:52:27.2855 Info Configuration initialized.
+2019-10-05 16:52:27.2855 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-05 16:53:30.6967 Info Message Template Auto Format enabled
+2019-10-05 16:53:30.7871 Info Adding target FileTarget(Name=allfile)
+2019-10-05 16:53:30.7908 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-05 16:53:30.7908 Info Adding target FileTarget(Name=todo)
+2019-10-05 16:53:30.8387 Info Found 89 configuration items
+2019-10-05 16:53:30.8529 Info Configuration initialized.
+2019-10-05 16:53:30.8529 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-07 09:08:43.4522 Info Message Template Auto Format enabled
+2019-10-07 09:08:43.5134 Info Adding target FileTarget(Name=allfile)
+2019-10-07 09:08:43.5134 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-07 09:08:43.5134 Info Adding target FileTarget(Name=todo)
+2019-10-07 09:08:43.5429 Info Found 89 configuration items
+2019-10-07 09:08:43.5548 Info Configuration initialized.
+2019-10-07 09:08:43.5548 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-07 09:08:43.9756 Info AppDomain Shutting down. Logger closing...
+2019-10-07 09:08:43.9867 Info Logger has been shut down.
+2019-10-09 14:10:04.2743 Info Message Template Auto Format enabled
+2019-10-09 14:10:04.3344 Info Adding target FileTarget(Name=allfile)
+2019-10-09 14:10:04.3369 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-09 14:10:04.3369 Info Adding target FileTarget(Name=todo)
+2019-10-09 14:10:04.3735 Info Found 89 configuration items
+2019-10-09 14:10:04.3925 Info Configuration initialized.
+2019-10-09 14:10:04.3925 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-09 14:29:00.1450 Info Message Template Auto Format enabled
+2019-10-09 14:29:00.2437 Info Adding target FileTarget(Name=allfile)
+2019-10-09 14:29:00.2437 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-09 14:29:00.2475 Info Adding target FileTarget(Name=todo)
+2019-10-09 14:29:00.2920 Info Found 89 configuration items
+2019-10-09 14:29:00.3126 Info Configuration initialized.
+2019-10-09 14:29:00.3126 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-16 09:25:44.0619 Info Message Template Auto Format enabled
+2019-10-16 09:25:44.1285 Info Adding target FileTarget(Name=allfile)
+2019-10-16 09:25:44.1307 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-16 09:25:44.1307 Info Adding target FileTarget(Name=todo)
+2019-10-16 09:25:44.1756 Info Found 89 configuration items
+2019-10-16 09:25:44.1904 Info Configuration initialized.
+2019-10-16 09:25:44.1904 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-21 14:43:58.0109 Info Message Template Auto Format enabled
+2019-10-21 14:43:58.1065 Info Adding target FileTarget(Name=allfile)
+2019-10-21 14:43:58.1099 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-21 14:43:58.1099 Info Adding target FileTarget(Name=todo)
+2019-10-21 14:43:58.1659 Info Found 89 configuration items
+2019-10-21 14:43:58.1866 Info Configuration initialized.
+2019-10-21 14:43:58.1866 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-21 14:43:58.8660 Info AppDomain Shutting down. Logger closing...
+2019-10-21 14:43:58.8783 Info Logger has been shut down.
+2019-10-21 14:44:02.3295 Info Message Template Auto Format enabled
+2019-10-21 14:44:02.4477 Info Adding target FileTarget(Name=allfile)
+2019-10-21 14:44:02.4512 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-21 14:44:02.4542 Info Adding target FileTarget(Name=todo)
+2019-10-21 14:44:02.4924 Info Found 89 configuration items
+2019-10-21 14:44:02.5133 Info Configuration initialized.
+2019-10-21 14:44:02.5145 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-21 15:03:37.9411 Info Message Template Auto Format enabled
+2019-10-21 15:03:38.0134 Info Adding target FileTarget(Name=allfile)
+2019-10-21 15:03:38.0155 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-21 15:03:38.0155 Info Adding target FileTarget(Name=todo)
+2019-10-21 15:03:38.0445 Info Found 89 configuration items
+2019-10-21 15:03:38.0572 Info Configuration initialized.
+2019-10-21 15:03:38.0578 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-21 15:03:38.6191 Info AppDomain Shutting down. Logger closing...
+2019-10-21 15:03:38.6307 Info Logger has been shut down.
+2019-10-21 15:03:41.8807 Info Message Template Auto Format enabled
+2019-10-21 15:03:42.0057 Info Adding target FileTarget(Name=allfile)
+2019-10-21 15:03:42.0124 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-21 15:03:42.0181 Info Adding target FileTarget(Name=todo)
+2019-10-21 15:03:42.0995 Info Found 89 configuration items
+2019-10-21 15:03:42.1168 Info Configuration initialized.
+2019-10-21 15:03:42.1199 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-25 10:15:51.1904 Info Message Template Auto Format enabled
+2019-10-25 10:15:51.2487 Info Adding target FileTarget(Name=allfile)
+2019-10-25 10:15:51.2487 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-25 10:15:51.2518 Info Adding target FileTarget(Name=todo)
+2019-10-25 10:15:51.2789 Info Found 89 configuration items
+2019-10-25 10:15:51.2910 Info Configuration initialized.
+2019-10-25 10:15:51.2915 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-25 10:15:51.6999 Info AppDomain Shutting down. Logger closing...
+2019-10-25 10:15:51.7155 Info Logger has been shut down.
+2019-10-25 11:15:10.0600 Info Message Template Auto Format enabled
+2019-10-25 11:15:10.1277 Info Adding target FileTarget(Name=allfile)
+2019-10-25 11:15:10.1277 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-25 11:15:10.1316 Info Adding target FileTarget(Name=todo)
+2019-10-25 11:15:10.1603 Info Found 89 configuration items
+2019-10-25 11:15:10.1724 Info Configuration initialized.
+2019-10-25 11:15:10.1724 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-25 11:15:10.7409 Info AppDomain Shutting down. Logger closing...
+2019-10-25 11:15:10.7555 Info Logger has been shut down.
+2019-10-29 11:08:27.5005 Info Message Template Auto Format enabled
+2019-10-29 11:08:27.5945 Info Adding target FileTarget(Name=allfile)
+2019-10-29 11:08:27.5945 Info Adding target FileTarget(Name=ownFile-web)
+2019-10-29 11:08:27.5981 Info Adding target FileTarget(Name=todo)
+2019-10-29 11:08:27.6292 Info Found 89 configuration items
+2019-10-29 11:08:27.6419 Info Configuration initialized.
+2019-10-29 11:08:27.6419 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-10-29 11:08:28.0783 Info AppDomain Shutting down. Logger closing...
+2019-10-29 11:08:28.0916 Info Logger has been shut down.
