@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using TodoApi.Models;
+
 namespace TodoApi {
     public class Startup {
         private readonly ILogger _logger;
@@ -24,8 +25,11 @@ namespace TodoApi {
         }
         public IConfiguration Configuration { get; }
         public void ConfigureServices (IServiceCollection services) {
-            var connection = Configuration.GetConnectionString ("MysqlConnection");
-            services.AddDbContext<TodoContext> (options => options.UseMySql (connection));
+            //mysql配置
+            // var connection = Configuration.GetConnectionString ("MysqlConnection");
+            // services.AddDbContext<TodoContext> (options => options.UseMySql (connection));
+            //sqlite配置
+            services.AddDbContext<TodoContext> (options => options.UseSqlite ("Data Source=test.db"));
             services.AddControllers ();
             services.AddSwaggerGen (c => {
                 c.SwaggerDoc ("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
@@ -38,7 +42,7 @@ namespace TodoApi {
 
         public void Configure (IApplicationBuilder app, IWebHostEnvironment env) {
             if (env.IsDevelopment ()) {
-                 _logger.LogInformation("In Development environment");
+                _logger.LogInformation ("In Development environment");
                 app.UseDeveloperExceptionPage ();
             }
             app.UseSwagger ();
