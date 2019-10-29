@@ -7,7 +7,7 @@ do
 	  then
 	    echo "is not newest,pkill dotnet"
 	    pkill dotnet
-            ehco "nohup dotnet run"
+            echo "nohup dotnet run"
 	    nohup dotnet run
           else
              echo "is newest"
